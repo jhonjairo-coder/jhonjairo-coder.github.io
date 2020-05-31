@@ -1,2 +1,2 @@
 # webpersonalindjango
-Blog web personal publicar mis habillidades
+Blog personal publicar mis habillidades
